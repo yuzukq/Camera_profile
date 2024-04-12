@@ -1,0 +1,127 @@
+{
+  "CameraType": "ThirdPerson",
+  "FieldOfView": 60.0,
+  "VisibleObject": {
+    "Avatar": true,
+    "UI": false,
+    "ForceUI": true,
+    "Wall": true,
+    "WallFrame": true,
+    "Saber": true,
+    "CutParticles": true,
+    "Notes": true,
+    "Debris": "Link"
+  },
+  "Layer": -1000,
+  "AntiAliasing": 2,
+  "RenderScale": 1.0,
+  "WindowRect": {
+    "FitToCanvas": true,
+    "x": 0,
+    "y": 0,
+    "width": 1920,
+    "height": 1080
+  },
+  "ThirdPersonPos": {
+    "x": -1.00000012,
+    "y": 1.89999986,
+    "z": -2.99999928
+  },
+  "ThirdPersonRot": {
+    "x": 10.6999836,
+    "y": 0.99999994,
+    "z": -1.49011612E-08
+  },
+  "FirstPersonPos": {
+    "x": 0.0,
+    "y": -0.200000018,
+    "z": 0.1
+  },
+  "FirstPersonRot": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "TurnToHeadOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "MovementScript": {
+    "MovementScript": "",
+    "UseAudioSync": true,
+    "SongSpecificScript": false,
+    "IgnoreScriptUIDisplay": false
+  },
+  "CameraLock": {
+    "LockScreen": false,
+    "LockCamera": false,
+    "DontSaveCameraDrag": false
+  },
+  "CameraExtensions": {
+    "PreviewCamera": true,
+    "PreviewCameraVROnly": true,
+    "PreviewCameraQuadScale": 1.0,
+    "PreviewCameraMirrorMode": false,
+    "OrthographicMode": false,
+    "OrthographicSize": 1.0,
+    "NearClip": 0.1,
+    "FarClip": 1000.0,
+    "PositionSmooth": 10.0,
+    "RotationSmooth": 5.0,
+    "Rotation360Smooth": 2.0,
+    "FirstPersonCameraForceUpRight": false,
+    "Follow360Map": false,
+    "Follow360MapUseLegacyProcess": false,
+    "FollowNoodlePlayerTrack": true,
+    "TurnToHead": false,
+    "TurnToHeadHorizontal": false,
+    "DontDrawDesktop": false
+  },
+  "Multiplayer": {
+    "TargetPlayerNumber": 1,
+    "DisplayPlayerInfo": false
+  },
+  "VMCProtocol": {
+    "Mode": "Disable",
+    "Address": "127.0.0.1",
+    "Port": 39540
+  },
+  "WebCamera": {
+    "WebCameraName": "",
+    "AutoConnect": false,
+    "ChromaKeyColor": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ChromaKeyHue": 0.0,
+    "ChromaKeySaturation": 0.0,
+    "ChromaKeyBrightness": 0.0
+  },
+  "CameraEffect": {
+    "EnableDOF": false,
+    "DOFFocusDistance": 0.0,
+    "DOFFocusRange": 1.0,
+    "DOFBlurRadius": 5.0,
+    "DOFAutoDistance": false,
+    "WipeProgress": 0.0,
+    "WipeType": "Circle",
+    "WipeCircleCenter": [
+      0.0,
+      0.0
+    ],
+    "EnableOutline": false,
+    "OutlineOnly": 0.0,
+    "OutlineColor": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "OutlineBGColor": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  }
+}
