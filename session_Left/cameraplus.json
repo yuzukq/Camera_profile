@@ -1,6 +1,6 @@
 {
   "CameraType": "ThirdPerson",
-  "FieldOfView": 60.0,
+  "FieldOfView": 90.0,
   "VisibleObject": {
     "Avatar": true,
     "UI": false,
@@ -25,7 +25,7 @@
   "ThirdPersonPos": {
     "x": 1.0,
     "y": 1.89999986,
-    "z": -2.99999928
+    "z": -2.3
   },
   "ThirdPersonRot": {
     "x": 10.6999836,
@@ -59,7 +59,7 @@
     "DontSaveCameraDrag": false
   },
   "CameraExtensions": {
-    "PreviewCamera": true,
+    "PreviewCamera": false,
     "PreviewCameraVROnly": true,
     "PreviewCameraQuadScale": 1.0,
     "PreviewCameraMirrorMode": false,
